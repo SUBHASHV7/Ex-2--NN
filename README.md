@@ -140,11 +140,10 @@ plt.show()
 
 # OUTPUT:
 
-<img width="557" height="111" alt="image" src="https://github.com/user-attachments/assets/88438472-c8b4-4efe-8e16-3fbf02ee37da" />
-
-<img width="550" height="418" alt="image" src="https://github.com/user-attachments/assets/4e28e06a-04ca-4644-be6a-e7a02fd397d4" />
-
-<img width="551" height="430" alt="image" src="https://github.com/user-attachments/assets/a1cdca9c-cc5f-4bd6-9580-b16557e0e00d" />
+<img width="269" height="97" alt="image" src="https://github.com/user-attachments/assets/9b2f3013-3faf-46da-853c-8f40a2d9b849" />
+<img width="398" height="356" alt="image" src="https://github.com/user-attachments/assets/e253e3a0-3915-4793-beea-42a236e682d2" />
+<img width="817" height="472" alt="image" src="https://github.com/user-attachments/assets/b008b296-2df5-48a8-8200-b191a90a49aa" />
+<img width="418" height="368" alt="image" src="https://github.com/user-attachments/assets/493aeb5b-d881-4170-9a01-75808c20d480" />
 
 
 
